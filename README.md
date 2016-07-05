@@ -1,7 +1,7 @@
 # Crawler_examples
 
 最简单的 example 演示
-## 设置 user-agent 和 ip 代理来防止爬虫被 ban 的测试。
+## 设置 user-agent 和 ip 代理来防止爬虫被 ban 的测试
 [blogCrawler](https://github.com/Shuang0420/Crawler_examples/tree/master/blogCrawler)<br >
 [爬虫总结(二)-- scrapy](http://www.shuang0420.com/2016/06/12/爬虫总结-二-scrapy/)
 
