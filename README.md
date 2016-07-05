@@ -13,3 +13,6 @@
 注意 settings.py<br >
 [JsSpider.py](https://github.com/Shuang0420/Crawler_examples/blob/master/examples/examples/spiders/JsSpider.py)<br >
 [爬虫总结-五-其他技巧](http://www.shuang0420.com/2016/06/17/爬虫总结-五-其他技巧/)
+
+## 同时运行多个爬虫
+[run.py](https://github.com/Shuang0420/Crawler_examples/blob/master/FAQscrapy/FAQscrapy/run.py)
