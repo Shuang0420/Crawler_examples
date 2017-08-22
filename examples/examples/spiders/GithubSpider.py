@@ -50,7 +50,7 @@ class GithubSpider(Spider):
                                           formdata={
                                               #'utf8': '✓',
                                               'login': 'shuang0420',
-                                              'password': 'zhuxianlian1',
+                                              'password': '#################',
                                               'authenticity_token': authenticity_token
                                           },
                                           callback=self.after_login,
